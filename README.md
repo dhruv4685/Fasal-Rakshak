@@ -65,5 +65,4 @@
 **Dhruv Kimothi**
 * Contact: dhruvkim2005@gmail.com
 
----
-*Built for the Google Cloud Arcade Facilitator Program & Personal Portfolio.*
+
